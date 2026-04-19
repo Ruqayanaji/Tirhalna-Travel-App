@@ -1,4 +1,3 @@
-شغلك الآن 🔥# TIRHALNA - Travel Planning App
 
 TIRHALNA is a travel planning application designed to help users organize and manage their trips easily. The system allows users to explore destinations, book hotels and activities, and plan their journeys efficiently in one place.
 
@@ -22,4 +21,4 @@ TIRHALNA is a travel planning application designed to help users organize and ma
 - Database (JDBC)
 
 ## Note
-This is a backend-focused academic project demonstrating system design and application logic.🔥 ممتاز جدًا
+This is a backend-focused academic project demonstrating system design and application logic
